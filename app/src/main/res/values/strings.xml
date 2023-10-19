@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnthonyFabricioVeraEjercicio3</string>
+    <string name="animal">Animal</string>
+    <string name="alimentacion">Alimentación</string>
+    <string name="reproduccion">Reproducción</string>
+    <string name="tipo_ali">tipo_ali</string>
+    <string name="tipoMam">vivi_o_ovi</string>
+</resources>
